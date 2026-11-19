@@ -9,8 +9,8 @@ Merhaba, ben Samet. Sinop Üniversitesi Bilgisayar Programcılığı bölümünd
 - 🔐 Siber güvenlik alanına ekstra bir ilgim var
 - 🎨 Figma ile UI/UX tasarımları yapıyorum
 - 🌱 Şu an yeni alanlar keşfediyor ve kendimi geliştiriyorum
-- 📫 Bana [e-posta adresim](mailto:EPOSTA_ADRESIN) üzerinden ulaşabilirsin
-- 💼 [LinkedIn](https://linkedin.com/in/KULLANICI_ADIN) profilime göz at
+- 📫 Bana [e-posta adresim](mailto:topraksamett@outlook.com) üzerinden ulaşabilirsin
+- 💼 [LinkedIn](https://www.linkedin.com/in/toprak-samet/) profilime göz at
 
 ## Kullandığım Teknolojiler
 
@@ -31,5 +31,5 @@ Tasarım:<br>
 
 ## GitHub İstatistiklerim
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KULLANICI_ADIN&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICI_ADIN&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sametdevs&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=sametdevs&layout=compact&theme=tokyonight&hide_border=true)
